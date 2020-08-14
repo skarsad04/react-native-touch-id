@@ -11,7 +11,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/naoufal/react-native-touch-id.git"
+    "url": "https://github.com/skarsad04/react-native-touch-id.git"
   },
   "keywords": [
     "react-native",
@@ -34,5 +34,6 @@
   "devDependencies": {
     "eslint": "2.0.0",
     "eslint-plugin-react": "2.7.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
